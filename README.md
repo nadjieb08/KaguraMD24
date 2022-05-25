@@ -7,7 +7,7 @@
 <p align="center">
     <a href="https://Lexxy24.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+Lexxy+Official+🙏"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+nadjieb+ofc+🙏"
             alt="YT Lexxy Official"
         />
     </a>
@@ -17,7 +17,7 @@
 
 Click the deploy icon below !
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lexxy24/BOTMD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nadjieb08/KaguraMD24)
 
 ```bash
  > heroku/nodejs
@@ -49,8 +49,4 @@ Click the deploy icon below !
 ```
 
 # My Sosial
-- [Group Bot Wa 1](https://chat.whatsapp.com/CT5mUKSNRmMB3yuNfjGPso)
-- [Group Bot Wa 2](https://chat.whatsapp.com/E3zewfxrc5pKE6Rzb3BuqG)
-- [Group Bot Wa 3](https://chat.whatsapp.com/EDYV3OK6wHaDAb6J1iMnUa)
-- [YouTube ](https://youtube.com/c/LEX4YOUU)
-- [Whatsapp ](https://wa.me/6285789004732)
+- [Whatsapp ](https://wa.me/6282234343854)
