@@ -10,7 +10,7 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['6282234343854','62895385166315','6282234343854']
+global.owner = ['6282234343854','62895410604659','6282234343854']
 global.premium = ['6282234343854']
 global.ownernomer = '62895385166315'
 global.ownername = 'Kevin'
@@ -25,10 +25,10 @@ global.sp = '⭔'
 
 //---------( INFO )---------//
 global.youtube = 'https://youtube.com/c/LEX4YOUU'
-global.ig = 'https://instagram.com/Lexxy24'
+global.ig = 'apa'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://github.com/Lexxy24'
-global.email = 'pebrikito0@gmail.com'
+global.myweb = 'https://github.com/nadjieb08'
+global.email = 'najiebahmad8@gmail.com'
 global.region = 'indonesia'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
