@@ -24,8 +24,8 @@ global.author = '2022'
 global.sp = '⭔'
 
 //---------( INFO )---------//
-global.youtube = 'https://youtube.com/c/LEX4YOUU'
-global.ig = 'apa'
+global.youtube = 'https://youtube.com/channel/UCE97yvE_S0Hw8J2z41qoQBw'
+global.ig = 'call_my_jibb'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
 global.myweb = 'https://github.com/nadjieb08'
 global.email = 'najiebahmad8@gmail.com'
